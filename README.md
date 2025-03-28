@@ -228,7 +228,7 @@
             <h2>Arduino Uno</h2>
             
             <div class="board-image">
-                <img src="" alt="Arduino Uno Board">
+                <img src="https://github.com/mrvlegend/mr_vlgnd/blob/e9235a67128f23131fba2199451e4a128a98c3c8/uno.png" alt="Arduino Uno Board">
                 <p>Arduino Uno R3 - The most popular Arduino board for beginners</p>
             </div>
             
