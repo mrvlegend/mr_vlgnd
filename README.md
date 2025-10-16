@@ -589,12 +589,6 @@
                         <label for="email">EMAIL ADDRESS</label>
                         <input type="email" id="email" name="email" placeholder="your.email@example.com">
                     </div>
-
-                    <div class="form-group">
-                        <label for="location">FAULT LOCATION *</label>
-                        <input type="text" id="location" name="location" placeholder="Street, Area, Landmark" required>
-                    </div>
-
                     <div class="form-group">
                         <label for="faultType">FAULT TYPE *</label>
                         <select id="faultType" name="faultType" required>
