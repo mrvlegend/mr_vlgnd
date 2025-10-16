@@ -527,7 +527,15 @@
             <div class="stat-card">
                 <div class="stat-icon">🔋</div>
                 <div class="stat-label">System Health</div>
-                <div class="stat-value" id="systemHealth">GOOD</div>
+                <div class="stat-value" id="systemHealth">BbAD
+                
+                
+                
+                
+                
+                
+                
+                </div>
             </div>
         </div>
 
