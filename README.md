@@ -656,7 +656,7 @@
     <footer>
         <p>⚡ Power Grid Monitoring System | Real-Time Fault Detection & Analysis</p>
         <p style="margin-top: 5px; font-size: 0.9em; color: #888;">
-            Emergency Helpline: 1912 | System Status: Operational
+            Emergency Helpline: 9019053396 | System Status: Operational
         </p>
     </footer>
 
